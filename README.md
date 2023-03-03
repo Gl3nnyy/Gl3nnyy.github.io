@@ -70,6 +70,7 @@
             </div>
           </div>
     </section>
+  </body>
     <hr>
     <footer id="contact" class="container">
         <h2 class="text-center">Contact Us</h2>
@@ -79,6 +80,4 @@
         <h3 class="text-center">1234-421-234</h3>
         <br>
     </footer>
-
-    </body>
     </html>
